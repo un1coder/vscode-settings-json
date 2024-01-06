@@ -1,0 +1,31 @@
+{
+    "workbench.tree.indent": 20,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.smoothScrolling": true,
+    "editor.cursorBlinking": "expand",
+    "editor.lineHeight": 1.7,
+    "editor.fontWeight": "normal",
+    "editor.cursorStyle": "line",
+    "terminal.external.linuxExec": "iterm",
+    "editor.wordWrap": "on",
+    "editor.fontFamily": "Cascadia Code PL,MesloLGSDZ,Consolas",
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.productIconTheme": "el-vsc-v1-icons",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": true,
+    "workbench.editor.tabSizing": "fit",
+    "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+    "walTheme.autoUpdate": true,
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "mojo.onSettingsChanged": "ignore",
+    "window.autoDetectColorScheme": true,
+    "mojo.modularHomePath": "/home/foobar/.modular",
+    "workbench.colorTheme": "Monokai Vibrant"
+}
